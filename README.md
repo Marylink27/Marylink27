@@ -43,4 +43,4 @@
 
 ## Контакты
 
-Telegram: [@ваш_ник](https://t.me/ваш_ник) · Email: ваш@почта · [Резюме на hh.ru](https://hh.ru/resume/ваш_id)
+Telegram: [@Marylink_27] · [Резюме на hh.ru](https://hh.ru/resume/5ce19131ff0ca847ab0039ed1f386f46774d6b)
