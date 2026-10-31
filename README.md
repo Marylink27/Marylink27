@@ -31,7 +31,8 @@
 
 | Проект | Что внутри |
 |---|---|
-| [demand-forecast-dashboard](https://github.com/Marylink27/demand-forecast-dashboard) · [демо](https://marylink27.github.io/demand-forecast-dashboard/) | прогноз спроса и выручки по выгрузке 1С: загрузка Excel/CSV, единый формат, три сценария, проверка на факте против простых правил, выгрузка в Excel |
+| [retail-demand-forecasting](https://github.com/Marylink27/retail-demand-forecasting) | прогноз спроса LightGBM против бейзлайнов, 3 сценария, эффект на излишки склада |
+| [demand-forecast-dashboard](https://github.com/Marylink27/demand-forecast-dashboard) · [демо](https://marylink27.github.io/demand-forecast-dashboard/) | рабочий дашборд прогноза по выгрузке 1С: загрузка Excel/CSV, единый формат, три сценария, проверка на факте, выгрузка в Excel |
 | [category-assortment-analytics](https://github.com/Marylink27/category-assortment-analytics) | ассортимент 10 000+ SKU: ABC/XYZ, GMROI, неликвид и уценка с целевой маржой |
 | [price-monitoring-etl](https://github.com/Marylink27/price-monitoring-etl) | ETL мониторинга цен конкурентов, витрины в PostgreSQL / DuckDB |
 
